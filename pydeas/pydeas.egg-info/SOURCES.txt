@@ -1,0 +1,8 @@
+setup.py
+pydeas/PydeasDB.py
+pydeas/__init__.py
+pydeas.egg-info/PKG-INFO
+pydeas.egg-info/SOURCES.txt
+pydeas.egg-info/dependency_links.txt
+pydeas.egg-info/requires.txt
+pydeas.egg-info/top_level.txt

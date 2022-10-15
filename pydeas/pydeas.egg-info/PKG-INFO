@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: pydeas
+Version: 0.1.7
+Summary: A simple db package
+Home-page: UNKNOWN
+Author: Bilodev (Antonio Bilotta)
+Author-email: bilotta.antonio.biz@gmail.com
+License: UNKNOWN
+Keywords: python,database,csv,relational database,relational,pydeDb,pyde
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
+A package that allows to build simple databases, in an easy and fast way.
+
