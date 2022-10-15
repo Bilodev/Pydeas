@@ -1,1 +1,1 @@
-pip install pydeas
+Installation: pip install pydeas
