@@ -85,4 +85,4 @@ def delete_by_appname(app_name) -> None:
     print(response)
 # This function will print true if the operation is completed succesfully
 ```
-## Column Operations (coming...)
+[Pydeas v0.1.7](https://pypi.org/project/pydeas/)
