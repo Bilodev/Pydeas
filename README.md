@@ -43,8 +43,8 @@ password_file.add_row(['Github', 'myemail@io.com', 'Foo', 'Bar']) # add a row to
 
 ## Query
 A pydeas database can be queryied in 2 different ways:
-One resembles the way of doing things in relational databases
-We recommend using this when queryies are more complicated
+one resembles the way of doing things in relational databases
+(we recommend using this when queryies are more complex)
 
 ```python
 def get_config(app_name, email):
